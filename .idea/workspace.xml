@@ -44,14 +44,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.bib_generator">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="bib_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BIBINPUTS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,34 +199,13 @@
       <workItem from="1656605358385" duration="171000" />
       <workItem from="1660803638061" duration="140000" />
       <workItem from="1662710733039" duration="245000" />
-    </task>
-    <task id="LOCAL-00003" summary="adding zethrenes paper to casanova.bib">
-      <created>1602571777846</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1602571777846</updated>
-    </task>
-    <task id="LOCAL-00004" summary="moving references to casanova.bib">
-      <created>1602573422779</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1602573422779</updated>
-    </task>
-    <task id="LOCAL-00005" summary="correcting authorship of Dirac:1928 (original.bib).">
-      <created>1603089870466</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1603089870466</updated>
-    </task>
-    <task id="LOCAL-00006" summary="correcting authorship of Dirac:1928 (original.bib).">
-      <created>1603111117587</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1603111117587</updated>
+      <workItem from="1676007790281" duration="797000" />
+      <workItem from="1678429621157" duration="1120000" />
+      <workItem from="1679642701558" duration="188000" />
+      <workItem from="1685329008298" duration="279000" />
+      <workItem from="1686129931079" duration="869000" />
+      <workItem from="1686799310160" duration="585000" />
+      <workItem from="1692245853987" duration="264000" />
     </task>
     <task id="LOCAL-00007" summary="Adding 1 paper in casanova.bib">
       <created>1603175920303</created>
@@ -548,7 +522,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662710957620</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="add reference in casanova.bib">
+      <created>1671876168438</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1671876168439</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add reference in casanova.bib">
+      <created>1671876177809</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1671876177809</updated>
+    </task>
+    <task id="LOCAL-00054" summary="add reference in casanova.bib">
+      <created>1676008077278</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1676008077278</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add reference in casanova.bib">
+      <created>1686799595861</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1686799595861</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
